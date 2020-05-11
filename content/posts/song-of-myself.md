@@ -1,31 +1,18 @@
 ---
-date: 2019-07-22T22:44:38Z
+date: 2019-07-22T22:44:38.000+00:00
 title: Song of Myself
-author: Ralph Waldo Emerson
+author: Walt Whitman
 hero_image: "/content/images/ren-ran-bBiuSdck8tU-unsplash.jpg"
 
 ---
-I have heard what the talkers were talking, the talk of the  
- beginning and the end
+This is just some test content to see how well this will work. So far, it seems to be working pretty decently.
 
-But I do not talk of the beginning or the end. There was never any more inception than there is now, Nor any more youth or age than there is now, And will never be any more perfection than there is now,  
- Nor any more heaven or hell than there is now.
+The editor in Forestry is absurdly good. _Incredibly_ good. It generates markdown very well, has keyboard shortcuts for **formatting**, and just in general feels amazing. I'm very surprised that they were able to implement something _this good_.
 
-Urge and urge and urge, Always the procreant urge of the world.  
- Out of the dimness opposite equals advance, always substance and  
- increase, Always a knit of identity, always distinction, always a breed of life. To elaborate is no avail, learn’d and unlearn’d feel that it is  
- so.
+![Here's some alt text.](/content/images/fbby1h_1.jpg "Here's some content.")
 
-Clear and sweet is my soul, and clear and sweet is all that is not my soul.
+So for instance, here's an image. It works _really well_. Also you get commits out of these, which is amazing.
 
-![](/content/images/igor-son-FV_PxCqgtwc-unsplash.jpg)
+The only downside really is that _Forestry generates a lot of commits_**. Like a lot**. It's pretty bad about doing stuff efficiently.
 
-Lack one lacks both, and the unseen is proved by the seen,  
- Till that becomes unseen and receives proof in its turn.
-
-Showing the best and dividing it from the worst age vexes age,  
- Knowing the perfect fitness and equanimity of things, while they discuss I am silent, and go bathe and admire myself.
-
-Welcome is every organ and attribute of me, and of any man hearty and clean, Not an inch nor a particle of an inch is vile, and none shall be less familiar than the rest.
-
-I am satisfied—I see, dance, laugh, sing; As the hugging and loving bed-fellow sleeps at my side through the night, and withdraws at the peep of the day with stealthy tread. Leaving me baskets cover’d with white towels swelling the house with their plenty, Shall I postpone my acceptation and realization and scream at my eyes, That they turn from gazing after and down the road, And forthwith cipher and show me to a cent, Exactly the value of one and exactly the value of two, and which is ahead?
+Other than that, I don't really see any advantage this has over something like Svbtle (which I **really** like). I just hate that it's git-backed and that I can't do anything decent in it.
