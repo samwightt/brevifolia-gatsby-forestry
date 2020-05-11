@@ -1,6 +1,6 @@
 ---
 date: 2020-05-11T21:12:55Z
-hero_image: ''
+hero_image: "/content/images/sonja-punz-N47B_zibNGo-unsplash.jpg"
 title: 'AtariOS, AmigaOS, and NewtonOS: Why Good Operating Systems Fail'
 author: Robert Thoreau
 
