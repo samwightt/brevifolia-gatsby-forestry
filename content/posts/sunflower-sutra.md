@@ -1,5 +1,5 @@
 ---
-date: 2019-08-08T22:42:09Z
+date: 2019-08-08T22:42:09.000+00:00
 title: Sunflower Sutra
 author: Allen Ginsberg
 hero_image: "/content/images/adrien-olichon--aOsCcTJXWY-unsplash.jpg"
@@ -16,6 +16,8 @@ The only water on the river mirrored the red sky, sun sank on top of final Frisc
 Look at the Sunflower, he said, there was a dead gray shadow against the sky, big as a man, sitting dry on top of a pile of ancient sawdust–
 
 \--I rushed up enchanted–it was my first sunflower, memories of Blake–my visions–Harlem
+
+* This works, wow. \[^1\]
 
 # “the gray Sunflower poised against the sunset, crackly bleak and dusty with the smut and smog and smoke of olden locomotives in its eye”
 
@@ -40,3 +42,5 @@ and those blear thoughts of death and dusty loveless eyes and ends and withered 
 entangled in your mummied roots–and you standing before me in the sunset, all your glory in your form!
 
 A perfect beauty of a sunflower! a perfect excellent lovely sunflower existence! a sweet natural eye to the new hip moon, woke up alive and excited grasping in the sunset shadow sunrise golden monthly breeze!
+
+\[^1\]: Wow This works!
